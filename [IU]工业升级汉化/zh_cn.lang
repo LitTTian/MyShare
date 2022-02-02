@@ -54,43 +54,43 @@ inforamtionmolecular=点击以切换GUI颜色
 inforamtionmolecular1=点击以切换转换机的工作模式
 
 # Standart Panels
-industrialupgrade.machines.advanced_solar_panel=§8高级太阳能板
-industrialupgrade.machines.hybrid_solar_panel=§3混合太阳能板
-industrialupgrade.machines.ultimate_solar_panel=§9终极混合太阳能板
-industrialupgrade.machines.quantum_solar_panel=§2量子太阳能板
-industrialupgrade.machines.spectral_solar_panel=§e光谱太阳能板
-industrialupgrade.machines.proton_solar_panel=§5质子太阳能板
-industrialupgrade.machines.singular_solar_panel=§8奇异太阳能板
-industrialupgrade.machines.admin_solar_panel=§c衍射太阳能板
-industrialupgrade.machines.photonic_solar_panel=§a光子太阳能板
-industrialupgrade.machines.neutronium_solar_panel=§9中子太阳能板
-industrialupgrade.machines.barion_solar_panel=§d重子太阳能板
-industrialupgrade.machines.hadron_solar_panel=§d强子太阳能板
-industrialupgrade.machines.graviton_solar_panel=§d引力子太阳能板
-industrialupgrade.machines.quark_solar_panel=§d夸克太阳能板
-blockAdministatorSolarPanel.name=§8管理员太阳能板
-industrialupgrade.admpanel.admpanel=§8管理员太阳能板
+industrialupgrade.machines.advanced_solar_panel=§8高级太阳能
+industrialupgrade.machines.hybrid_solar_panel=§3混合太阳能
+industrialupgrade.machines.ultimate_solar_panel=§9终极混合太阳能
+industrialupgrade.machines.quantum_solar_panel=§2量子太阳能
+industrialupgrade.machines.spectral_solar_panel=§e光谱太阳能
+industrialupgrade.machines.proton_solar_panel=§5质子太阳能
+industrialupgrade.machines.singular_solar_panel=§8奇异太阳能
+industrialupgrade.machines.admin_solar_panel=§c衍射太阳能
+industrialupgrade.machines.photonic_solar_panel=§a光子太阳能
+industrialupgrade.machines.neutronium_solar_panel=§9中子太阳能
+industrialupgrade.machines.barion_solar_panel=§d重子太阳能
+industrialupgrade.machines.hadron_solar_panel=§d强子太阳能
+industrialupgrade.machines.graviton_solar_panel=§d引力子太阳能
+industrialupgrade.machines.quark_solar_panel=§d夸克太阳能
+blockAdministatorSolarPanel.name=§8管理员太阳能
+industrialupgrade.admpanel.admpanel=§8管理员太阳能
 
 # Draconic Evolution Panels
-industrialupgrade.draconicpanel.draconium_solar_panel=§d龙之太阳能板
-industrialupgrade.draconicpanel.awakened_solar_panel=§6觉醒龙之太阳能板
-industrialupgrade.draconicpanel.chaotic_solar_panel=§7混沌龙之太阳能板
+industrialupgrade.draconicpanel.draconium_solar_panel=§d龙之太阳能
+industrialupgrade.draconicpanel.awakened_solar_panel=§6觉醒龙之太阳能
+industrialupgrade.draconicpanel.chaotic_solar_panel=§7混沌龙之太阳能
 
 # Botania Panels
-industrialupgrade.botaniapanel.manasteel_solar_panel=§b魔力钢太阳能板
-industrialupgrade.botaniapanel.terrasteel_solar_panel=§a泰拉钢太阳能板
-industrialupgrade.botaniapanel.elementum_solar_panel=§d源质钢太阳能板
+industrialupgrade.botaniapanel.manasteel_solar_panel=§b魔力钢太阳能
+industrialupgrade.botaniapanel.terrasteel_solar_panel=§a泰拉钢太阳能
+industrialupgrade.botaniapanel.elementum_solar_panel=§d源质钢太阳能
 
 # Avaritia Panels
-industrialupgrade.avaritiapanel.neutron_solar_panel_av=§9中子素太阳能板
-industrialupgrade.avaritiapanel.infinity_solar_panel=无尽太阳能板
+industrialupgrade.avaritiapanel.neutron_solar_panel_av=§9中子素太阳能
+industrialupgrade.avaritiapanel.infinity_solar_panel=无尽太阳能
 
 # Thaumcraft Panels
-industrialupgrade.thaumcraftpanel.thaum_solar_panel=神秘锭太阳能板
-industrialupgrade.thaumcraftpanel.void_solar_panel=虚空锭太阳能板
+industrialupgrade.thaumcraftpanel.thaum_solar_panel=神秘锭太阳能
+industrialupgrade.thaumcraftpanel.void_solar_panel=虚空锭太阳能
 
 # Thaumic Tinkerer Panels
-industrialupgrade.tinkererpanel.ichor_solar_panel=灵宝太阳能板
+industrialupgrade.tinkererpanel.ichor_solar_panel=灵宝太阳能
 
 # Helmets with Solar Panel
 item.advanced_solar_helmet.name=§8高级太阳能头盔
@@ -234,20 +234,20 @@ iu.modultype.module55=模块: 夜之面板
 iu.modultype.module56=模块: 太阳光面板
 iu.modultype.module57=模块: 雨滴面板
 
-iu.modulestype.module61=模块: 高级太阳能板
-iu.modulestype.module62=模块: §3混合太阳能板
-iu.modulestype.module63=模块: §9终极混合太阳能板
-iu.modulestype.module64=模块: §2量子太阳能板
-iu.modulestype.module65=模块: §e光谱太阳能板
-iu.modulestype.module66=模块: §5质子太阳能板
-iu.modulestype.module67=模块: §8奇异太阳能板
-iu.modulestype.module68=模块: §c衍射太阳能板
-iu.modulestype.module69=模块: §a光子太阳能板
-iu.modulestype.module70=模块: §9中子太阳能板
-iu.modulestype.module91=模块: 重子太阳能板
-iu.modulestype.module92=模块: 强子太阳能板
-iu.modulestype.module93=模块: 引力子太阳能板
-iu.modulestype.module94=模块: 夸克太阳能板
+iu.modulestype.module61=模块: 高级太阳能
+iu.modulestype.module62=模块: §3混合太阳能
+iu.modulestype.module63=模块: §9终极混合太阳能
+iu.modulestype.module64=模块: §2量子太阳能
+iu.modulestype.module65=模块: §e光谱太阳能
+iu.modulestype.module66=模块: §5质子太阳能
+iu.modulestype.module67=模块: §8奇异太阳能
+iu.modulestype.module68=模块: §c衍射太阳能
+iu.modulestype.module69=模块: §a光子太阳能
+iu.modulestype.module70=模块: §9中子太阳能
+iu.modulestype.module91=模块: 重子太阳能
+iu.modulestype.module92=模块: 强子太阳能
+iu.modulestype.module93=模块: 引力子太阳能
+iu.modulestype.module94=模块: 夸克太阳能
 
 iu.additionmodule.personality=模块: 私有
 iu.additionmodule.tier_in=模块: 面板等级升级
@@ -342,21 +342,21 @@ iu.spawnermodules.spawner_module7=猎人模块: 3 生物
 
 ic2.item.tooltip.Output=输出:
 ic2.item.tooltip.Capacity=存储:
-iu.module1=§e提升太阳能板白天产能§2倍
-iu.module2=§8提升太阳能板夜间产能§2倍
-iu.module3=§9提升太阳能板储能§2倍
-iu.module4=§5提升太阳能板输出功率§2倍
+iu.module1=§e提升太阳能白天产能§2倍
+iu.module2=§8提升太阳能夜间产能§2倍
+iu.module3=§9提升太阳能储能§2倍
+iu.module4=§5提升太阳能输出功率§2倍
 iu.module=基础数据
 iu.modules=§c每个插槽只可安装一个升级
 iu.modules1=§c只能安装同级或次级的模块
 iu.modules12=§c插入最后一个插槽
 
-netherpanel=使太阳能板可以在下界工作/在下界时改变GUI
+netherpanel=使太阳能可以在下界工作/在下界时改变GUI
 aerpanel=产能 150%
 aerpanel1=如果太阳能的高度大于130格/改变GUI
 earthpanel=产能 150%
 earthpanel1=如果太阳能的高度大于30格/改变GUI
-endpanel=使太阳能板可以在末地工作/在末地时改变GUI
+endpanel=使太阳能可以在末地工作/在末地时改变GUI
 nightpanel=只在夜间工作, 产能 150%
 sunpanel=只在白天工作, 产能 150%
 rainpanel=下雨时产能 150%
@@ -364,10 +364,10 @@ rainpanel1=下雨时改变GUI
 
 ic2.item.tooltip.Store=储存:
 wirelles=§e使你可以无线传输能量
-transformator=提升太阳能板等级
-transformator1=降低太阳能板等级
+transformator=提升太阳能等级
+transformator1=降低太阳能等级
 industrialupgrade.sintezator.sintezator=太阳能合成器
-iu.sintezator=太阳能板在其中堆叠，每个插槽限制数: 2
+iu.sintezator=太阳能可在其中堆叠使用，每个插槽限制数: 2
 supsolpans.SpecSP.Output=输出:
 supsolpans.SpecSP.Storage=容量:
 supsolpans.iu.Storage-tooltip=容量:
@@ -445,8 +445,8 @@ earth_matter.name=世界固体物质
 end_matter.name=末地固体物质
 aer_matter.name=空气固体物质
 
-personality=§c使其他玩家不能打开太阳能板接口
-personality1=§c只有太阳能的拥有者才能拆卸太阳能板
+personality=§c使其他玩家不能打开太阳能接口
+personality1=§c只有太阳能的拥有者才能拆卸太阳能
 iu.error=§c错误! 模块: 隐私权限触发. 你不是太阳能的拥有者!
 iu.miny=最小高度:
 iu.maxy=最大高度:
@@ -571,9 +571,9 @@ gui.movementchargerf=实时装甲充电 RF
 gui.movementchargeitemrf=实时物品充电 RF
 gui.movement=按下<SHIFT>并右击
 
-modulechange=允许太阳能板可以给物品充电
+modulechange=允许太阳能可以给物品充电
 modulerfinfo=允许生成 RF能
-modulerfinfo1=插入一个太阳能板或者电容
+modulerfinfo1=插入一个太阳能或者电容
 
 reactor.info=反应堆产量: 
 reactor.info1=加热(99%)时产量: 
@@ -1642,16 +1642,16 @@ iu.time2= 直到2级污染程度
 iu.time3= 直到3级污染程度
 pollutionpnale=太阳能被污染
 pollutioninformation=悬停
-iu.panelinformation=太阳能板信息
-iu.panelinformation1=太阳能板现在有污染程度
+iu.panelinformation=太阳能信息
+iu.panelinformation1=太阳能现在有污染程度
 iu.panelinformation2=每级污染程度减少25%产能
 iu.panelinformation3=你可以用净化器清洁面板。
-iu.panelinformation4=使用模块来改进太阳能板。
+iu.panelinformation4=使用模块来改进太阳能。
 iu.panelinformation5=请阅读模块详细信息。
-iu.panelinformation6=太阳能板现在需要用扳手拆卸。
+iu.panelinformation6=太阳能现在需要用扳手拆卸。
 iu.panelinformation7=模式切换按钮只对"RF"模块起作用。
-iu.panelinformation8=要给放入太阳能板中的东西充电，你需要"物品充电"模块。
-iu.panelinformation9=可以用"净化器"模块代替手动清洁面板。
+iu.panelinformation8=要给放入太阳能中的东西充电，你需要"物品充电"模块。
+iu.panelinformation9=可以用"净化器"模块代替手动清洁太阳能面板。
 
 updatemod4=[IU]
 updatemod=新版本可用:
@@ -1716,7 +1716,7 @@ iu.electricstorageinformation2=如果安装RF模块, 能量将在EU和RF之间�
 iu.electricstorageinformation3=如果安装RF模块, 你可以用RF能量给物品充电。
 iu.electricstorageinformation4=你可以在左边的插槽使用模块。
 iu.electricstorageinformation5=若要将电容与无线模块关联，请将其插入模块槽中。
-iu.electricstorageinformation6=如果通信正常，请将模块插入太阳能板。
+iu.electricstorageinformation6=如果通信正常，请将模块插入太阳能。
 iu.electricstorageinformation7=及时充电只有在按下 SHIFT 并右击电容的时候才能工作。
 
 button.deny=关闭
@@ -1730,7 +1730,7 @@ iu.quarryinformation4=将"分析"模块插入顶部槽位让堆自动操作。
 iu.quarryinformation5=将模块插入底部槽位以添加黑白名单。
 iu.quarryinformation6=其余模块插入中间槽位。
 iu.quarryinformation7=若要将电容与无线模块关联，请将其插入模块槽中。
-iu.quarryinformation8=如果通信正常，请将模块插入太阳能板。
+iu.quarryinformation8=如果通信正常，请将模块插入太阳能。
 iu.quarryinformation9="范围"模块使你能采集更多方块(3x3, 5x5)，但同时会消耗更多。
 
 iu.analyzerinformation=分析器信息
@@ -1946,33 +1946,33 @@ achievement.kvr_core=比强子更小的东西
 achievement.kvr_core.desc=获得一个夸克核心
 
 achievement.adv_panel=科学行动
-achievement.adv_panel.desc=制造一个高级太阳能板
+achievement.adv_panel.desc=制造一个高级太阳能
 achievement.hyb_panel=光板混合
-achievement.hyb_panel.desc=制造一个混合太阳能板
+achievement.hyb_panel.desc=制造一个混合太阳能
 achievement.ult_panel=终极混合
-achievement.ult_panel.desc=制造一个终极混合太阳能板
+achievement.ult_panel.desc=制造一个终极混合太阳能
 achievement.qua_panel=绿色能源量化
-achievement.qua_panel.desc=制造一个量子太阳能板
+achievement.qua_panel.desc=制造一个量子太阳能
 achievement.spe_panel=光谱
-achievement.spe_panel.desc=制造一个光谱太阳能板
+achievement.spe_panel.desc=制造一个光谱太阳能
 achievement.pro_panel=正电荷
-achievement.pro_panel.desc=制造一个质子太阳能板
+achievement.pro_panel.desc=制造一个质子太阳能
 achievement.sin_panel=能量纠缠
-achievement.sin_panel.desc=制造一个奇异太阳能板
+achievement.sin_panel.desc=制造一个奇异太阳能
 achievement.dif_panel=干涉捕手
-achievement.dif_panel.desc=制造一个衍射太阳能板
+achievement.dif_panel.desc=制造一个衍射太阳能
 achievement.pho_panel=光子能量
-achievement.pho_panel.desc=制造一个光子太阳能板
+achievement.pho_panel.desc=制造一个光子太阳能
 achievement.neu_panel=免费能源
-achievement.neu_panel.desc=制造一个中子太阳能板
+achievement.neu_panel.desc=制造一个中子太阳能
 achievement.bar_panel=重子能量
-achievement.bar_panel.desc=制造一个重子太阳能板
+achievement.bar_panel.desc=制造一个重子太阳能
 achievement.had_panel=LHC不再必要
-achievement.had_panel.desc=制造一个强子太阳能板
+achievement.had_panel.desc=制造一个强子太阳能
 achievement.gra_panel=重力
-achievement.gra_panel.desc=制造一个引力子太阳能板
+achievement.gra_panel.desc=制造一个引力子太阳能
 achievement.kvr_panel=元素能量
-achievement.kvr_panel.desc=制造一个夸克太阳能板
+achievement.kvr_panel.desc=制造一个夸克太阳能
 achievement.oil_bucket=开采原油
 achievement.oil_bucket.desc=把油倒进桶里
 achievement.oil_drilling_rig=抽油
