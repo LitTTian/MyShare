@@ -1285,13 +1285,13 @@ netherredstonerack.name=下界红石矿
 nethertinrack.name=下界锡矿
 netheruranrack.name=下界铀矿
 
-industrialupgrade.transformer_iu.umv=特高压变压器 (IV)
-industrialupgrade.transformer_iu.uhv=剧差压变压器 (LuV)
-industrialupgrade.transformer_iu.uev=零点压变压器 (ZPM)
-industrialupgrade.transformer_iu.umhv=极限压变压器 (UV)
-industrialupgrade.transformer_iu.umev=4倍极限压变压器 (4UV)
-industrialupgrade.transformer_iu.uhev=16倍极限压变压器 (16UV)
-industrialupgrade.transformer_iu.heev=64倍极限压变压器 (64UV)
+industrialupgrade.transformer_iu.umv=UV-变压器
+industrialupgrade.transformer_iu.uhv=LkV-变压器
+industrialupgrade.transformer_iu.uev=MkV-变压器
+industrialupgrade.transformer_iu.umhv=HkV-变压器
+industrialupgrade.transformer_iu.umev=EkV-变压器
+industrialupgrade.transformer_iu.uhev=UkV-变压器
+industrialupgrade.transformer_iu.heev=MegaV-变压器
 
 iu.lens.aerlinse=空气透镜
 iu.lens.earthlinse=世界透镜
