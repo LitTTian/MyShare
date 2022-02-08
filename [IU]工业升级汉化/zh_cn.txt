@@ -153,7 +153,7 @@ iu.elementium_core.name=§d源质钢核心
 
 # Avaritia Cores
 iu.neutroncore.name=§9中子素核心
-iu.infinitycore.name=§无尽核心
+iu.infinitycore.name=§f无尽核心
 
 iu.neutronium.name=§9中子碎片
 iu.neutroniumingot.name=§9中子锭
@@ -231,8 +231,8 @@ iu.modultype.module52=模块: 世界面板
 iu.modultype.module53=模块: 下界面板
 iu.modultype.module54=模块: 末地面板
 iu.modultype.module55=模块: 夜之面板
-iu.modultype.module56=模块: 日之面板
-iu.modultype.module57=模块: 雨之面板
+iu.modultype.module56=模块: 太阳光面板
+iu.modultype.module57=模块: 雨滴面板
 
 iu.modulestype.module61=模块: 高级太阳能
 iu.modulestype.module62=模块: §3混合太阳能
@@ -429,19 +429,19 @@ iu.Zcoord=Z
 inforamtionelectricstorage=单击，修改能量转换方式
 
 iu.solidmatter.matter=固体物质
-iu.solidmatter.sun_matter=日之固体物质
-iu.solidmatter.aqua_matter=水之固体物质
-iu.solidmatter.night_matter=月之固体物质
+iu.solidmatter.sun_matter=太阳固体物质
+iu.solidmatter.aqua_matter=水气固体物质
+iu.solidmatter.night_matter=夜晚固体物质
 iu.solidmatter.nether_matter=下界固体物质
-iu.solidmatter.earth_matter=主世界固体物质
+iu.solidmatter.earth_matter=世界固体物质
 iu.solidmatter.end_matter=末地固体物质
 iu.solidmatter.aer_matter=空气固体物质
 matter.name=固体物质
-sun_matter.name=日之固体物质
-aqua_matter.name=水之固体物质
-night_matter.name=月之固体物质
+sun_matter.name=太阳固体物质
+aqua_matter.name=水气固体物质
+night_matter.name=夜晚固体物质
 nether_matter.name=下界固体物质
-earth_matter.name=主世界固体物质
+earth_matter.name=世界固体物质
 end_matter.name=末地固体物质
 aer_matter.name=空气固体物质
 
@@ -1285,21 +1285,21 @@ netherredstonerack.name=下界红石矿
 nethertinrack.name=下界锡矿
 netheruranrack.name=下界铀矿
 
-industrialupgrade.transformer_iu.umv=特高压变压器 (IV)
-industrialupgrade.transformer_iu.uhv=剧差压变压器 (LuV)
-industrialupgrade.transformer_iu.uev=零点压变压器 (ZPM)
-industrialupgrade.transformer_iu.umhv=极限压变压器 (UV)
-industrialupgrade.transformer_iu.umev=4倍极限压变压器 (4UV)
-industrialupgrade.transformer_iu.uhev=16倍极限压变压器 (16UV)
-industrialupgrade.transformer_iu.heev=64倍极限压变压器 (64UV)
+industrialupgrade.transformer_iu.umv=UV-变压器
+industrialupgrade.transformer_iu.uhv=LkV-变压器
+industrialupgrade.transformer_iu.uev=MkV-变压器
+industrialupgrade.transformer_iu.umhv=HkV-变压器
+industrialupgrade.transformer_iu.umev=EkV-变压器
+industrialupgrade.transformer_iu.uhev=UkV-变压器
+industrialupgrade.transformer_iu.heev=MegaV-变压器
 
 iu.lens.aerlinse=空气透镜
 iu.lens.earthlinse=世界透镜
 iu.lens.endlinse=末地透镜
 iu.lens.netherlinse=下界透镜
-iu.lens.nightlinse=月之透镜
-iu.lens.sunlinse=日之透镜
-iu.lens.rainlinse=雨之透镜
+iu.lens.nightlinse=月透镜
+iu.lens.sunlinse=日透镜
+iu.lens.rainlinse=雨透镜
 
 item.magnet.name=磁铁
 item.impmagnet.name=改良磁铁
@@ -1580,12 +1580,12 @@ industrialupgrade.solid.nether_solidmatter=下界固体物质生成机
 industrialupgrade.solid.night_solidmatter=夜间固体物质生成机
 industrialupgrade.solid.sun_solidmatter=白天固体物质生成机
 
-industrialupgrade.se_gen.se_gen=阳光化合物生成机
-blockSolarGeneratorEnergy.name=阳光化合物生成机
-industrialupgrade.adv_se_gen.adv_se_gen=改良阳光化合物生成机
-blockAdvSolarGenerator.name=改良阳光化合物生成机
-industrialupgrade.imp_se_gen.imp_se_gen=高级阳光化合物生成机
-blockImpSolarGenerator.name=高级阳光化合物生成机
+industrialupgrade.se_gen.se_gen=太阳能发电机
+blockSolarGeneratorEnergy.name=太阳能发电机
+industrialupgrade.adv_se_gen.adv_se_gen=改良太阳能发电机
+blockAdvSolarGenerator.name=改良太阳能发电机
+industrialupgrade.imp_se_gen.imp_se_gen=高级太阳能发电机
+blockImpSolarGenerator.name=高级太阳能发电机
 industrialupgrade.gen_sunnarium.gen_sunnarium=阳光化合物制造厂
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=阳光化合物板制造厂
 
@@ -1838,7 +1838,7 @@ iu.vertical=为了激活垂直模式, 按
 iu.streak=为了改变玩家后面线条颜色, 按 
 iu.magnet_mode=为了激活磁铁, 按 
 iu.notfindoil=没有找到原油, 放置核心搜索钻井机来分析区块
-iu.create_sunnarium=在阳光化合物生成机中制造
+iu.create_sunnarium=在太阳能发电机中制造
 iu.create_plastic=在化工厂中制造
 iu.create_plastic_plate=在塑料制板机中制造
 
@@ -1885,13 +1885,13 @@ achievement.toriyore=金属中的雷神
 achievement.toriyore=获得钍
 
 achievement.SE_generator=把握阳光
-achievement.SE_generator.desc=制造一个阳光化合物生成机
+achievement.SE_generator.desc=制造一个太阳能发电机
 achievement.sunnarium_part=太阳粒子
 achievement.sunnarium_part.desc=获得一个阳光化合物碎片
 achievement.Adv_SE_generator=更多阳光
-achievement.Adv_SE_generator.desc=升级你的阳光化合物生成机
+achievement.Adv_SE_generator.desc=升级你的太阳能发电机
 achievement.Imp_SE_generator=更多的太阳能
-achievement.Imp_SE_generator.desc=将你的阳光化合物生成机升至更高级
+achievement.Imp_SE_generator.desc=将你的太阳能发电机升至更高级
 achievement.sunnarium_maker=拼凑碎片
 achievement.sunnarium_maker.desc=制造一个阳光化合物制造厂
 achievement.sunnarium=自己手里的阳光...
